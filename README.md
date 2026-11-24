@@ -117,6 +117,8 @@ Supermarket-Sales-Analysis/
 ├── supermarket_sales_kaggle_dataset_foranalysis.ipynb
 └── README.md
 
+---
+
 ## 🎓 Skills Demonstrated
 
 Throughout this project, the following skills were applied:

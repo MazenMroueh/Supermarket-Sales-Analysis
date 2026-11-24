@@ -119,18 +119,19 @@ Supermarket-Sales-Analysis/
 
 ## 🎓 Skills Demonstrated
 
-- Data Cleaning
+Throughout this project, the following skills were applied:
+
+- Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Business Analytics
 - Data Storytelling
 - Python Programming
 - Insight Generation
+- Data-Driven Decision Making
 
 ---
 
 ## ⭐ Project Goal
 
-This project demonstrates the end-to-end data analysis process, from raw data preparation to business insight generation, while showcasing practical skills in Python, data analysis, and analytical thinking.
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
+The goal of this project is to demonstrate practical data analytics skills by transforming raw supermarket transaction data into actionable business insights. Through data cleaning, exploration, visualization, and interpretation, this analysis highlights how data can be leveraged to support informed business decisions.
